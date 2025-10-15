@@ -39,7 +39,7 @@ dependencies = ["integrify-core>=1.0.3,<2"]
 
 [project.urls]
 Homepage = "https://integrify.mmzeynalli.dev/integrations/lsim/about"
-Repository = "https://github.com/ntegrify-SDK/integrify-lsim-python"
+Repository = "https://github.com/Integrify-SDK/integrify-lsim-python"
 Documentation = "https://integrify.mmzeynalli.dev/integrations/lsim/about"
 
 [dependency-groups]
@@ -118,6 +118,9 @@ disable = ['C0114', 'C0115', 'C0301', 'R0913', 'R0914', 'R0917', 'R0801']
 [tool.mypy]
 exclude = ['tests/*', 'test.py']
 plugins = ['pydantic.mypy']
+mypy_path = "src"
+namespace_packages = true
+explicit_package_bases = true
 
 [tool.pytest.ini_options]
 pythonpath = ["src/"]

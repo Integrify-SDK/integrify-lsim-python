@@ -1,12 +1,11 @@
 # LSIM
 
+???+ warning
+    Bu sorğulardan istifadə edə bilmək üçün, düzgün "environment variable"-ları quraşdırmalısınız. Daha ətraflı [burdan](./env.md) oxuya bilərsiniz.
+
 ## Rəsmi Dokumentasiya (v2024.11.22) { #official-documentation }
 
 [İngliscə](https://mmzeynalli.notion.site/LSIM-1974f14f727e8029a3f5f9e4e556afe3?pvs=74)
-
-## İstifadəsi { #usage }
-
-Bu sorğulardan istifadə etmək üçün, bu dəyərləri "environment variable"-larına əlavə etməlisiniz: `LSIM_LOGIN`, `LSIM_PASSWORD`, `LSIM_SENDER_NAME`
 
 ## Sorğular listi { #list-of-requests }
 
