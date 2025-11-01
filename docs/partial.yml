@@ -1,5 +1,5 @@
 LSIM:
-  - "integrations/lsim/about.md"
+  - "integrations/lsim/index.md"
   - "integrations/lsim/env.md"
   - API Referansı:
     - Single SMS:
