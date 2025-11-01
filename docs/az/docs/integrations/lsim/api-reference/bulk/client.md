@@ -1,4 +1,4 @@
-# LSIM Bulk SMS klientinin API Reference-i
+# Bulk SMS Client
 
 ???+ note
 

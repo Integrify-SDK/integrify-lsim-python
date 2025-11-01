@@ -1,4 +1,4 @@
-# LSIM Single SMS klientinin API Reference-i
+# Single SMS client
 
 ???+ note
 

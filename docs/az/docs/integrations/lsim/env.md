@@ -1,4 +1,4 @@
-# LSIM mühit dəyişənləri
+# Mühit dəyişənləri
 
 ## Haqqında
 
